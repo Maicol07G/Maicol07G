@@ -1,4 +1,4 @@
-_### ¡Hola! Soy Michael González
+¡Hola! Soy Michael González
 
 👨‍💻 Ingeniero de Software en Formación / Desarrollador de Software
 
