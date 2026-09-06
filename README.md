@@ -1,16 +1,19 @@
-## Hi there 👋
+###  ¡Hola! Soy Maicol González
 
-<!--
-**Maicol07G/Maicol07G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Ingeniero de Sistemas en Formación
 
-Here are some ideas to get you started:
+ **Front-End:** HTML5, CSS3, JavaScript, React Native, Vue.js
+⚙️ **Back-End:** Node.js, SQL, Python, Django, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="css3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="react" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="php" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
+</p>
+
+[GITHUB] | [LINKEDIN] | [PORTFOLIO] | [INSTAGRAM]
