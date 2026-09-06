@@ -1,8 +1,8 @@
-###  ¡Hola! Soy Maicol González
+### ¡Hola! Soy Michael González
 
- Ingeniero de Sistemas en Formación
+👨‍💻 Ingeniero de Software en Formación / Desarrollador de Software
 
- **Front-End:** HTML5, CSS3, JavaScript, React Native, Vue.js
+💻 **Front-End:** HTML5, CSS3, JavaScript, React Native, Vue.js
 ⚙️ **Back-End:** Node.js, SQL, Python, Django, PHP
 
 <p align="left">
@@ -16,4 +16,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
 </p>
 
-[GITHUB] | [LINKEDIN] | [PORTFOLIO] | [INSTAGRAM]
+<p align="left">
+  <a href="www.linkedin.com/in/michael-arboleda-gonzalez-9a9190226" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/michael_19_" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:michaell.gonzalez07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
