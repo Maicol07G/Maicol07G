@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="www.linkedin.com/in/michael-arboleda-gonzalez-9a9190226" target="_blank">
+  <a href="https://www.linkedin.com/in/michael-arboleda-gonzalez-9a9190226" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/michael_19_" target="_blank">
