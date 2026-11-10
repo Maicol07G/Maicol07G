@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/michael-arboleda-gonzalez-9a9190226" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/michael_19_" target="_blank">
+  <a href="https://instagram.com/MICHAEL_19_G" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:michaell.gonzalez07@gmail.com" target="_blank">
